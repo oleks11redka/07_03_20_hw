@@ -1,0 +1,109 @@
+.container {
+    background-color: rgb(154, 7, 7);
+    padding-bottom: 30px;
+    width: 100%;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header {
+    text-align: center;
+    margin-bottom: 4px;
+}
+
+.navigationBar {
+    background-color: black;
+    display: flex;
+    text-align: center;
+}
+
+.navWithPicture {
+    margin-bottom: 5px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.navTitles {
+    color: white;
+    margin-top: 5px;
+}
+
+.navPicture {
+    width: 100%;
+    max-width: 180px;
+    min-width: 20px;
+}
+
+.textPart {
+    display: flex;
+}
+
+.textLeft {
+    background-color: #7d0708;
+    color: #e85b12;
+    width: 100%;
+    max-width: 200px;
+    min-width: 110px;
+    max-height: 400px;
+    text-decoration: underline;
+    margin-top: 2px;
+}
+
+.textOnTheLeft {
+    margin-top: 4px;
+    margin-bottom: 16px;
+    word-spacing: 1px;
+}
+
+.mainText {
+    color: white;
+    margin-top: 25px;
+    margin-bottom: 60px;
+}
+
+.plainText {
+    font-size: 18px;
+    margin-bottom: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    word-spacing: 1px;
+}
+
+.textRight {
+    width: 100%;
+    max-width: 150px;
+    min-width: 90px;
+    max-height: 500px;
+    background-color:white;
+    margin-top: 2px;
+    padding: 0 0 15px 0;
+}
+
+.rightTitle {
+    background-color: rgb(177, 177, 177);
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}
+
+.textOnTheRight {
+    padding-left: 2px;
+    word-spacing: 1px;
+}
+
+hr {
+    width: 75px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.footer {
+    font-size: 20px;
+    text-align: center;
+    background-color: #e85b12;
+    padding: 2px;
+    color: white;
+    margin-top: 22px;
+}
